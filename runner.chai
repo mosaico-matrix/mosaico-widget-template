@@ -1,5 +1,5 @@
 global standardText = _DrawableText();
-standardText.setText("Il porcodiddio2");
+standardText.setText("Mono");
 //standardText.loadConfig("title");
 // global rest = _Rest();
 // rest.get("http://host.orb.internal:8000/api/places/1");
