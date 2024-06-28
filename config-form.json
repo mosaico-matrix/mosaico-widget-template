@@ -5,7 +5,7 @@
     "fields": [
       {
         "name": {
-          "type": "text",
+          "type": "string",
           "label": "Maiz",
           "required": true,
           "placeholder": "Enter some text here :)",
@@ -17,7 +17,7 @@
       },
       {
         "email": {
-          "type": "text",
+          "type": "string",
           "label": "DMAX",
           "required": true,
           "placeholder": "Some other text",
