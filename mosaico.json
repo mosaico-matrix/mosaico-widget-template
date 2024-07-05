@@ -1,10 +1,8 @@
-          {
-            "name": "New Project",
-            "description": "A new Mosaico project",
-            "version": "1.0",
-            "software_version": "1.0",
-            "author": "Mosaico Team",
-            "fps": 20,
-            "configurable":false
-          }
-        
+{
+  "name": "My new widget",
+  "description": "A new Mosaico project",
+  "widget_version": "1.0",
+  "software_version": "1.0",
+  "fps": 20,
+  "configurable": false
+}
