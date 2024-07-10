@@ -1,7 +1,0 @@
-global standardText = _DrawableText();
-standardText.setText("Hey there!");
-def loop()
-{
-  standardText.setColor(RANDOM_COLOR());
-}
-        
