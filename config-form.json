@@ -10,6 +10,12 @@
           "required": true,
           "placeholder": "Enter the name of this list"
         },
+         "color": {
+          "type": "color",
+          "label": "Color",
+          "required": true,
+          "placeholder": "Choose the color of the title"
+        },
         "items": {
           "type": "string[]",
           "label": "Shopping items",

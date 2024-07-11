@@ -4,7 +4,7 @@
   "widget_version": "1.0",
   "software_version": "1.0",
   "author": "Mosaico Team",
-  "fps": 20,
-  "configurable": false
+  "fps": 1,
+  "configurable": true
 }
         
