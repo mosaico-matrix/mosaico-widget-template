@@ -21,11 +21,6 @@
           "label": "Shopping items",
           "required": true,
           "placeholder": "Insert your items here"
-        },
-        "icon": {
-          "type": "image",
-          "label": "icon",
-          "required": true
         }
       }
     ]
